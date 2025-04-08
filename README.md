@@ -3,8 +3,6 @@
 
 - 🔭 I’m currently working on a object oriented programming project [java_Proyecto-ElEspectador](https://github.com/SebsBarr/java_Proyecto-ElEspectador)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
